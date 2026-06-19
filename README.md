@@ -1,5 +1,5 @@
 # ACISJM-App
-
+![capa](./assets/aci-sjm-marca.png)
 Plataforma web administrativa e associativa desenvolvida para a **Associação Comercial e Industrial de São João da Madeira (ACISJM)**, permitindo gerir empresas associadas, pedidos de inscrição, quotas, serviços e iniciativas, parceiros e benefícios, e validação de associados por código QR.
 
 ---
