@@ -1,0 +1,19 @@
+{
+  "name": "ACISJM Associados",
+  "short_name": "ACISJM",
+  "description": "Aplicação web para gestão e comunicação com associados da ACISJM.",
+  "start_url": "index.php",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7ed",
+  "theme_color": "#ff5100",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/aci-sjm-marca.png",
+      "sizes": "360x360",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
